@@ -1,3 +1,5 @@
 HELLO!!!
+<br>
 Welcome to the world of Python.
-These are all the Python Projects that i have made 
+<br>
+These are all the Python Projects that I have made 
